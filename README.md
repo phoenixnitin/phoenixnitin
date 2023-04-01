@@ -47,7 +47,9 @@ If you have any questions or want to collaborate on a project, feel free to reac
 
 ## 💻 My Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=phoenixnitin&show_icons=true&hide_border=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=phoenixnitin&show_icons=true&hide_border=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phoenixnitin&layout=compact)](https://github.com/phoenixnitin)
 
 Thank you for visiting my profile!
 

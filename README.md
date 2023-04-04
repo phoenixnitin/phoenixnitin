@@ -42,7 +42,7 @@ I am Nitin Kumar, a software developer who is passionate about building great ap
 
 If you have any questions or want to collaborate on a project, feel free to reach out to me:
 
-- [LinkedIn](https://www.linkedin.com/in/nitinsharma/)
+- [LinkedIn](https://www.linkedin.com/in/phoenixnitin/)
 - [Twitter](https://twitter.com/phoenixnitin)
 
 ## 💻 My Stats
